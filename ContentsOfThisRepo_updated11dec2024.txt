@@ -1,0 +1,31 @@
+Bloomsburg University: July 2017-November 2020
+Contains: 
+
+Official college transcript of classes taken at Bloomsburg University of Pennsylvania including grades earned.
+
+SANS:
+Contains:
+SANS New2Cyber Summit 2023: Reskilling Edition - Specialized Knowledge and Applications
+Completed: 14 March, 2023
+
+IvyTech CWCT: June 2024-June 2025
+Contains:
+
+Cisco IT Essentials Course/Comptia A+ Equiv.:
+Course Certificate of Completion
+Course Letter of Merit
+Course completed 31 July, 2024
+
+Linux System Admin/Linux+ Equiv.:
+No certificates provided by instructor for this course.
+Will recieve certificate upon completion of CWCT Systems Administration Track.
+Course completed 3 October, 2024
+
+Cisco CyberOps Associate/CCNA Equiv. Certificate of Completion 
+(PENDING - official end date of course: 16 Dec, 2024)
+
+Security+ Course - PENDING START
+
+TryHackMe:
+
+Certificate of Completion - Pre Security Learning Path (11 December, 2024)

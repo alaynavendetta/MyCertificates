@@ -66,5 +66,11 @@ To view a specific certificate:
 - Some transcripts or certifications may be pending completion.
 - If you need verification for any certification, feel free to contact me.
 
+## Blog & Cybersecurity Writing
+I write about cybersecurity, digital forensics, and security best practices on [Medium](https://medium.com/@alaynavendetta). My articles cover topics such as:
+- Digital Forensics & Evidence Handling – Best practices for preserving and analyzing digital evidence to maintain legal admissibility.
+- Forensic Report Writing – How to write clear, court-admissible forensic reports that meet industry standards.
+ ### [Digital Evidence: Collection, Preservation, and Admissibility in Court](https://medium.com/@alaynavendetta/digital-evidence-5e8d6254da60)
+
 Thank you for visiting my repository!
 

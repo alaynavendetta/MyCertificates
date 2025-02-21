@@ -50,6 +50,8 @@ This repository is organized into folders based on the source of certification. 
   - Offensive Pentesting
   - Web Fundamentals
   - Pentest+ Path
+  - Complete Beginner
+  - Introduction to Cyber Security
 
 ### Professional Development
 - **LinkedIn Learning**

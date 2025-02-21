@@ -25,6 +25,7 @@ This repository is organized into folders based on the source of certification. 
 - **Bloomsburg University**
   - Diploma
   - Transcript
+  - Language Proficiency Certificates Russian 203 & 204
 - **IvyTech - CWCT 2024-2025**
   - CyberOps Associate (CCNA)
   - IT Essentials (A+)
